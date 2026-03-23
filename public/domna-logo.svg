@@ -1,0 +1,7 @@
+<svg width="420" height="96" viewBox="0 0 420 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="96" rx="12" fill="transparent"/>
+  <path d="M28 84C13.4 84 2 71 2 48C2 25.2 13.6 12 28.8 12C35.6 12 41.8 14.4 46.4 18.4V0H58V82.6H47.4V75.8C42.8 81.2 36.2 84 28 84ZM29.4 72.8C39.8 72.8 46.4 64.4 46.4 48C46.4 31.8 39.8 23.2 29.4 23.2C18.8 23.2 13.2 31.8 13.2 48C13.2 64.4 18.8 72.8 29.4 72.8Z" fill="#2D7F86"/>
+  <rect x="74" y="10" width="3" height="74" rx="1.5" fill="#56A6B6"/>
+  <text x="98" y="47" fill="#245A60" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="300" letter-spacing="1">Domna</text>
+  <text x="100" y="73" fill="#4F8D95" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="4">RETROFIT MADE EASY</text>
+</svg>
